@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders10_NTireDesign_Pizza.UI", "Ders10_NTireDesign_Pizza.UI\Ders10_NTireDesign_Pizza.UI.csproj", "{D40997B3-C9FB-4D77-B5D0-41E5A776A899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders10_NTireDesign_Pizza.DataLayer", "Ders10_NTireDesign_Pizza.DataLayer\Ders10_NTireDesign_Pizza.DataLayer.csproj", "{8632DED1-DA4E-4CFE-8F05-2F75F309EC91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40997B3-C9FB-4D77-B5D0-41E5A776A899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40997B3-C9FB-4D77-B5D0-41E5A776A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40997B3-C9FB-4D77-B5D0-41E5A776A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40997B3-C9FB-4D77-B5D0-41E5A776A899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8632DED1-DA4E-4CFE-8F05-2F75F309EC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8632DED1-DA4E-4CFE-8F05-2F75F309EC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8632DED1-DA4E-4CFE-8F05-2F75F309EC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8632DED1-DA4E-4CFE-8F05-2F75F309EC91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B89002-0B06-4CE8-9699-3140F7AC55C3}
+	EndGlobalSection
+EndGlobal
